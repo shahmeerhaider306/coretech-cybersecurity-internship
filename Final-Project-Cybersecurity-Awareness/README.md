@@ -2,158 +2,159 @@
 ## Author: Shahmeer Haider
 ## Internee of Core Tech Innovations
 
-## Project Objective
+---
 
-The objective of this project is to improve cybersecurity awareness among CoreTech Innovation employees by educating them about common cyber threats, safe online practices, and security policies. Well-informed employees help reduce the risk of cyber attacks such as phishing, malware, ransomware, and password theft.
+# Executive Summary
+
+This project was developed to improve cybersecurity awareness among employees of CoreTech Innovation. Human error is one of the leading causes of cyber incidents, making employee education an essential part of an organization's security strategy. This report identifies common security risks, provides awareness guidance, and recommends best practices to reduce cybersecurity threats.
+
+---
+
+# Scope and Objectives
+
+## Scope
+
+This project focuses on improving employee awareness of cybersecurity threats and promoting safe security practices.
+
+## Objectives
+
+* Educate employees about common cyber threats.
+* Promote safe password practices.
+* Increase awareness of phishing attacks.
+* Encourage secure internet usage.
+* Recommend security improvements for the organization.
 
 ---
 
 # Methodology
 
-The following approach was used:
+The following methodology was used:
 
-1. Research common cybersecurity threats.
-2. Review security best practices.
-3. Prepare employee awareness material.
-4. Identify common risks.
-5. Recommend security improvements.
-
-<img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/add751c8-9b45-43a2-84ce-bc0bda7fd8d1" />
-
-<img width="1907" height="856" alt="image" src="https://github.com/user-attachments/assets/6a21a466-ace5-4881-82fe-c98755261e21" />
-
+1. Research cybersecurity awareness topics.
+2. Review industry best practices.
+3. Identify common threats affecting organizations.
+4. Analyze potential risks.
+5. Develop awareness material and recommendations.
+6. Document findings in a professional report.
 
 ---
 
-# Topics Covered
+# Tools Used
 
-## 1. Password Security
-
-Employees should:
-
-- Use passwords with at least 12 characters.
-- Include uppercase, lowercase, numbers, and symbols.
-- Never share passwords.
-- Use a password manager.
-- Enable Multi-Factor Authentication (MFA).
-
-<img width="1868" height="538" alt="image" src="https://github.com/user-attachments/assets/83e9065a-7b04-45b4-8359-0504bab1eb04" />
-
-<img width="1914" height="945" alt="image" src="https://github.com/user-attachments/assets/d3407cd0-c703-4b5f-9f45-0e8a073282a9" />
-
----
-
-## 2. Phishing Awareness
-
-Employees should:
-
-- Check sender email addresses.
-- Avoid clicking suspicious links.
-- Verify unexpected attachments.
-- Report phishing emails immediately.
-
-<img width="616" height="458" alt="image" src="https://github.com/user-attachments/assets/ae967099-a0e0-4190-bd0c-bc54ee68e753" />
-
----
-
-## 3. Safe Internet Browsing
-
-- Visit only trusted websites.
-- Look for HTTPS before entering sensitive information.
-- Avoid downloading files from unknown sources.
-
-<img width="1910" height="949" alt="image" src="https://github.com/user-attachments/assets/8d97f89b-3cc6-43d0-b1a2-1245f2602b6f" />
-
----
-
-## 4. Malware Protection
-
-- Keep antivirus software updated.
-- Scan USB devices before use.
-- Do not install unauthorized software.
-
-<img width="625" height="427" alt="image" src="https://github.com/user-attachments/assets/f801384e-4fa2-4a6a-a219-62b50493002f" />
-
----
-
-## 5. Social Engineering
-
-Employees should never:
-
-- Share passwords.
-- Reveal confidential information to unknown callers.
-- Trust unexpected requests for sensitive data.
-
-<img width="648" height="587" alt="image" src="https://github.com/user-attachments/assets/ce4612cb-fd3e-4d2a-ba2d-3b632e01ec4f" />
-
----
-
-## 6. Email Security
-
-Best practices include:
-
-- Verify email addresses.
-- Do not open suspicious attachments.
-- Report suspicious emails to the IT department.
-
-<img width="682" height="447" alt="image" src="https://github.com/user-attachments/assets/bde7abba-2309-4733-83ed-06c3bfcd1e88" />
-
----
-
-## 7. Data Protection
-
-- Lock computers when away.
-- Encrypt sensitive files.
-- Back up important data regularly.
-
-<img width="516" height="369" alt="image" src="https://github.com/user-attachments/assets/bbb80d9e-79a9-4fe0-819a-08fd00b21d64" />
+* GitHub (documentation and version control)
+* Web browser (research)
+* Microsoft Word / Markdown
+* OWASP resources
+* CISA cybersecurity guidance
 
 ---
 
 # Findings
 
-The following risks were identified:
-
-| Risk | Risk Rating |
-|------|-------------|
-| Weak Passwords | High |
-| Phishing Emails | High |
-| Malware Infection | Medium |
-| Unsafe Browsing | Medium |
-| Social Engineering | High |
-| USB Malware | Medium |
+| Finding                             | Severity |
+| ----------------------------------- | -------- |
+| Weak Password Practices             | High     |
+| Phishing Emails                     | High     |
+| Social Engineering Attacks          | High     |
+| Malware from Untrusted Downloads    | Medium   |
+| Unsafe Internet Browsing            | Medium   |
+| Lack of Multi-Factor Authentication | High     |
+| Outdated Software                   | Medium   |
+| USB Device Risks                    | Low      |
 
 ---
 
-# Recommendations
+# Risk Analysis
 
-- Conduct cybersecurity awareness training every 6 months.
-- Enforce strong password policies.
-- Enable Multi-Factor Authentication.
-- Keep systems updated.
-- Perform regular phishing simulations.
-- Install endpoint protection software.
-- Back up important business data.
-- Encourage employees to report suspicious activity.
+## High Risk
+
+* Weak passwords
+* Phishing attacks
+* Social engineering
+* No MFA
+
+These can result in unauthorized access, credential theft, and data breaches.
+
+---
+
+## Medium Risk
+
+* Malware infections
+* Unsafe browsing
+* Outdated software
+
+These may lead to compromised systems and business disruption.
+
+---
+
+## Low Risk
+
+* Use of unknown USB devices
+
+Although lower in likelihood, removable media can introduce malware if not controlled.
+
+---
+
+# Remediation Recommendations
+
+For CoreTech Innovation:
+
+* Enforce strong password policies.
+* Require Multi-Factor Authentication (MFA).
+* Conduct cybersecurity awareness training every six months.
+* Keep operating systems and software updated.
+* Install endpoint protection software.
+* Perform regular backups.
+* Block suspicious email attachments.
+* Restrict unauthorized USB devices.
+* Encourage employees to report suspicious activity immediately.
+* Perform regular security awareness assessments.
+
+---
+
+# Ethical Guidelines
+
+This project did not involve scanning, exploiting, or attacking any production systems. All information was collected from publicly available cybersecurity resources for educational purposes only.
 
 ---
 
 # Conclusion
 
-Cybersecurity awareness is one of the most effective ways to reduce cyber risks. Regular employee training, strong security policies, and continuous monitoring help protect CoreTech Innovation from modern cyber threats.
+Cybersecurity awareness is one of the most effective ways to reduce cyber risk. Regular employee training, secure authentication, timely software updates, and adherence to security policies help protect CoreTech Innovation against modern cyber threats.
 
 ---
 
-# Project Progress
+# Appendix (Screenshots and Evidence)
 
-✔ Topic selected
+Include the following screenshots:
 
-✔ Research completed
+1. OWASP homepage
+2. CISA Cybersecurity page
+3. Microsoft Security documentation
+4. Google Safe Browsing page
+5. Bitwarden password manager homepage
 
-✔ Documentation prepared
+<img width="1907" height="856" alt="image" src="https://github.com/user-attachments/assets/6a21a466-ace5-4881-82fe-c98755261e21" />
 
-✔ Risk assessment completed
+<img width="1868" height="538" alt="image" src="https://github.com/user-attachments/assets/83e9065a-7b04-45b4-8359-0504bab1eb04" />
 
-✔ Recommendations documented
+<img width="1911" height="914" alt="image" src="https://github.com/user-attachments/assets/add751c8-9b45-43a2-84ce-bc0bda7fd8d1" />
 
-Project Status: Initial Progress Submitted
+<img width="1905" height="955" alt="image" src="https://github.com/user-attachments/assets/a906bd40-4161-45c8-ab0c-c79a144e60fd" />
+
+<img width="1914" height="945" alt="image" src="https://github.com/user-attachments/assets/d3407cd0-c703-4b5f-9f45-0e8a073282a9" />
+
+
+
+---
+
+# Demo Video
+
+Demo Video Link:
+
+
+---
+
+# Project Status
+
+**Completed**
