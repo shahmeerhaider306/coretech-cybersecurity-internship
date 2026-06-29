@@ -126,13 +126,6 @@ Cybersecurity awareness is one of the most effective ways to reduce cyber risk. 
 
 # Appendix (Screenshots and Evidence)
 
-Include the following screenshots:
-
-1. OWASP homepage
-2. CISA Cybersecurity page
-3. Microsoft Security documentation
-4. Google Safe Browsing page
-5. Bitwarden password manager homepage
 
 <img width="1907" height="856" alt="image" src="https://github.com/user-attachments/assets/6a21a466-ace5-4881-82fe-c98755261e21" />
 
@@ -144,14 +137,13 @@ Include the following screenshots:
 
 <img width="1914" height="945" alt="image" src="https://github.com/user-attachments/assets/d3407cd0-c703-4b5f-9f45-0e8a073282a9" />
 
-
-
 ---
 
 # Demo Video
 
 Demo Video Link:
 
+https://youtu.be/pzjQB5w5Dm0?si=fVYQ5NBeEjzsMiqv
 
 ---
 
